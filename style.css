@@ -84,6 +84,7 @@ p {
 
 .project2 img {
 	height: 60px;
+	width: 60px;
 }
 
 /* Header section */
@@ -410,6 +411,7 @@ p {
 #projects .project-img {
 	flex-basis: 50%;
 	height: 300px;
+	width: 300px;
 	overflow: hidden;
 	position: relative;
 }
@@ -1395,6 +1397,6 @@ footer .footer-icons a {
 }
 #btnScrollToTop:active{
 	background-color: #cc2333;
-	
+
 }
 /* End  Media Query For Desktop */
