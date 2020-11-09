@@ -1378,5 +1378,23 @@ footer .footer-icons a {
     display: none;
   }
 }
+#btnScrollToTop{
+	position: fixed;
+	right: 10px;
+	bottom: 10px;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	background: #e62739;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+	color: #ffffff;
+	border: none;
+	outline: none;
+	cursor: pointer;
 
+}
+#btnScrollToTop:active{
+	background-color: #cc2333;
+	
+}
 /* End  Media Query For Desktop */
